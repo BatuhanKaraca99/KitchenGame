@@ -69,6 +69,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4ea07bafaa1ef4149a644b536fb68d9d, type: 3}
+--- !u!4 &7438346666212695992 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7193332198957401354, guid: 4ea07bafaa1ef4149a644b536fb68d9d,
+    type: 3}
+  m_PrefabInstance: {fileID: 353965125057501874}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &7471891459281808984 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7158740808255517930, guid: 4ea07bafaa1ef4149a644b536fb68d9d,
@@ -93,8 +99,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7d54b154838eb44684969573de83f8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  counterTopPoint: {fileID: 7438346666212695992}
   kitchenObjectSO: {fileID: 11400000, guid: eeaf040da85819b4684b6e8f805b4126, type: 2}
-  counterTopPoint: {fileID: 7471891459281808984}
 --- !u!1001 &1275616192290356479
 PrefabInstance:
   m_ObjectHideFlags: 0
