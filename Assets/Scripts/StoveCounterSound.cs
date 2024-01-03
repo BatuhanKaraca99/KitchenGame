@@ -27,6 +27,7 @@ public class StoveCounterSound : MonoBehaviour
         else
         {
             audioSource.Pause();
+
         }
     }
 }
