@@ -87,9 +87,9 @@ GameObject:
   m_Component:
   - component: {fileID: 3062153684163387926}
   - component: {fileID: -4994959205582975566}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Plate
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
